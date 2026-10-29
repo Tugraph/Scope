@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+*.o
+*.obj
+build/
+.vs/
+cmake_install.cmake
+CMakeFiles/
+*.log
+.ipynb_checkpoints/
